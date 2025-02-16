@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+/* body 样式 */
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+/* 标题 */
+.header {
+    padding: 40px;
+    text-align: center;
+    background: #ff7f7f;
+    color: rgb(255, 255, 255);
+}
+
+.day {
+    padding: 100%;
+    text-align: center;
+    background: #93ffdf;
+}
